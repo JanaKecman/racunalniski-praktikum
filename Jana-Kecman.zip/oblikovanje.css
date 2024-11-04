@@ -54,8 +54,7 @@ blockquote p {
 
 .boobies {
     background-color: rgb(51, 81, 126, 0.2) ;
-    border-color: rgb(51, 81, 126) ;
-    border-bottom: 1px;
+    border: rgb(51, 81, 126) 1px solid;
 }
 
 
