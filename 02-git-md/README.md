@@ -1,5 +1,7 @@
 <!-- glavni naslov -->
 # Računalniški praktikum
+
+file:///C:/Users/kecma/Documents/JanaKecman.github.io/index.html
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
