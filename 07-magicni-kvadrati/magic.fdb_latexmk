@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex magic"] 1731600608.05794 "magic.aux" "magic.bbl" "magic" 1731600805.57218 0
+["bibtex magic"] 1731600608.05794 "magic.aux" "magic.bbl" "magic" 1739110432.23911 0
   "./magic.bib" 1731590305 1019 99c3aefbef6333804bf69243a0c3bf27 ""
   "C:/Program Files/MiKTeX/bibtex/bst/bibtex/siam.bst" 1291864356 19403 812681d329611d2a1625ad7ae5186edc ""
-  "magic.aux" 1731600804 3172 8ffc03effcc9a417323176618cf6b1fd "pdflatex"
+  "magic.aux" 1739110431 3172 8ffc03effcc9a417323176618cf6b1fd "pdflatex"
   (generated)
   "magic.bbl"
   "magic.blg"
   (rewritten before read)
-["pdflatex"] 1731600804.0522 "c:/Users/kecma/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1731600805.57334 0
+["pdflatex"] 1739110430.24927 "c:/Users/kecma/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1739110432.24014 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -91,7 +91,7 @@
   "C:/Program Files/MiKTeX/tex/latex/lm/ts1lmr.fd" 1430474546 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "C:/Users/kecma/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731597237 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/kecma/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1739033635 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/kecma/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730988987 24215231 24b2c1b90ef7a4e295e32e52684307da ""
   "C:/Users/kecma/AppData/Roaming/MiKTeX/tex/generic/infwarerr/infwarerr.sty" 1575399508 8356 7bbb2c2373aa810be568c29e333da8ed ""
   "C:/Users/kecma/AppData/Roaming/MiKTeX/tex/generic/kvdefinekeys/kvdefinekeys.sty" 1576763304 5412 d5a2436094cd7be85769db90f29250a6 ""
@@ -102,12 +102,12 @@
   "C:/Users/kecma/AppData/Roaming/MiKTeX/tex/latex/grfext/grfext.sty" 1575399474 7133 b94bbacbee6e4fdccdc7f810b2aec370 ""
   "C:/Users/kecma/AppData/Roaming/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1656236481 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "C:/Users/kecma/AppData/Roaming/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty" 1665066333 13815 760b0c02f691ea230f5359c4e1de23a7 ""
-  "c:/Users/kecma/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1731600803 11210 57ce2d771244763da5d632957f073fea ""
+  "c:/Users/kecma/Documents/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1731600814 11210 57ce2d771244763da5d632957f073fea ""
   "durer.png" 1731590305 49307 c9692a8c361fe34567154cebb97ad5d5 ""
-  "magic.aux" 1731600804 3172 8ffc03effcc9a417323176618cf6b1fd "pdflatex"
+  "magic.aux" 1739110431 3172 8ffc03effcc9a417323176618cf6b1fd "pdflatex"
   "magic.bbl" 1731600608 782 fedfb2f2c6af0d0f7ef7c67cfae247ad "bibtex magic"
-  "magic.tex" 1731600803 11210 57ce2d771244763da5d632957f073fea ""
-  "magic.toc" 1731600804 471 eac3770e88c7182830bf464136ccdb1f "pdflatex"
+  "magic.tex" 1731600814 11210 57ce2d771244763da5d632957f073fea ""
+  "magic.toc" 1739110431 471 eac3770e88c7182830bf464136ccdb1f "pdflatex"
   "sagrada.png" 1731590305 118170 cc732cd2e989087e9820bfa6fd003959 ""
   "slika.pdf" 1731590305 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
   (generated)
